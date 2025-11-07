@@ -1,0 +1,17 @@
+{
+  "classes": [
+    "cadeira_aluno",
+    "mesa_aluno",
+    "mesa_prof",
+    "cadeira_prof",
+    "lousa",
+    "tela_proj",
+    "palco_prof",
+    "caixa_som",
+    "camera",
+    "janela",
+    "extintore",
+    "piso",
+    "projetor"
+  ]
+}

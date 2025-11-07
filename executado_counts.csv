@@ -1,0 +1,6 @@
+image_path,overlay_path,label_path,day,counts_json
+Dia1-Inicio.png,Dia1-Inicio_overlay.png,Dia1-Inicio.txt,1,"{""cadeira_aluno"": 1}"
+Dia2-Cameras.png,Dia2-Cameras_overlay.png,Dia2-Cameras.txt,2,"{""janela"": 3, ""extintore"": 2, ""caixa_som"": 4, ""projetor"": 1, ""camera"": 1, ""palco_prof"": 1, ""tela_proj"": 1}"
+Dia3-10Cadeiras.png,Dia3-10Cadeiras_overlay.png,Dia3-10Cadeiras.txt,3,"{""janela"": 3, ""extintore"": 2, ""caixa_som"": 4, ""projetor"": 1, ""camera"": 1, ""palco_prof"": 1, ""lousa"": 1, ""tela_proj"": 1, ""mesa_prof"": 11, ""mesa_aluno"": 10}"
+dia4-20Cadeiras.png,dia4-20Cadeiras_overlay.png,dia4-20Cadeiras.txt,4,"{""caixa_som"": 4, ""extintore"": 2, ""janela"": 3, ""projetor"": 1, ""camera"": 1, ""mesa_aluno"": 20, ""cadeira_prof"": 1, ""tela_proj"": 1, ""lousa"": 1, ""cadeira_aluno"": 20}"
+ProjetoFinal.png,ProjetoFinal_overlay.png,Dia5-Completo.txt,5,"{""caixa_som"": 4, ""extintore"": 2, ""janela"": 3, ""projetor"": 1, ""camera"": 1, ""mesa_aluno"": 31, ""cadeira_aluno"": 30}"
